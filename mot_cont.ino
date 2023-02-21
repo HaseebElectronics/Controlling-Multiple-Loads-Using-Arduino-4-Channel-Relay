@@ -1,3 +1,4 @@
+// for detailed understanding, check video number 827 of Haseeb Electronics (YouTube) Channel 
 void setup() {
   pinMode (3, INPUT);
   pinMode (4, OUTPUT);
